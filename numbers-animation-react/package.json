@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/F1xP/react-number-animation.git"
+    "url": "git+https://github.com/F1xP/numbers-animation-react.git"
   },
   "author": "F1xP",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/F1xP/react-number-animation/issues"
+    "url": "https://github.com/F1xP/numbers-animation-react/issues"
   },
-  "homepage": "https://github.com/F1xP/react-number-animation#readme"
+  "homepage": "https://github.com/F1xP/numbers-animation-react#readme"
 }

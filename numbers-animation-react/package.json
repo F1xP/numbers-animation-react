@@ -1,6 +1,6 @@
 {
   "name": "numbers-animation-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "react": "^18.2.0"
   },

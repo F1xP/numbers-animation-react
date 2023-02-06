@@ -1,0 +1,22 @@
+{
+  "name": "numbers-animation-react",
+  "version": "1.0.0",
+  "devDependencies": {
+    "react": "^18.2.0"
+  },
+  "description": "Animate numbers in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F1xP/react-number-animation.git"
+  },
+  "author": "F1xP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F1xP/react-number-animation/issues"
+  },
+  "homepage": "https://github.com/F1xP/react-number-animation#readme"
+}
